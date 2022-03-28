@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/03/demos/3_1_LaunchDemo" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/03/demos/3_1_LaunchDemo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/03/demos/3_2_RunBlocking" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/03/demos/3_2_RunBlocking" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/03/demos/3_3_Suspend" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/03/demos/3_3_Suspend" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/03/demos/3_4_Testing" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/03/demos/3_4_Testing" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/04/demos/4_1_Joining" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/04/demos/4_1_Joining" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/04/demos/4_2_Cancelling" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/04/demos/4_2_Cancelling" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/04/demos/4_3_Timeouts" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/04/demos/4_3_Timeouts" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/04/demos/4_4_coroutineScope" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/04/demos/4_4_coroutineScope" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/04/demos/4_5_Structured" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/04/demos/4_5_Structured" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/04/demos/4_6_1_ConsoleDispatchers" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/04/demos/4_6_1_ConsoleDispatchers" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/04/demos/4_6_2_DispatchersFx" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/04/demos/4_6_2_DispatchersFx" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/04/demos/4_6_3_ComposeDesktopDispatchers" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/04/demos/4_6_3_ComposeDesktopDispatchers" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/04/demos/4_7_ConsoleDispatchersWithContext" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/04/demos/4_7_ConsoleDispatchersWithContext" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/05/demos/5_1_Async" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/05/demos/5_1_Async" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/06/demos/6_1_Jobs" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/06/demos/6_1_Jobs" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/06/demos/6_2_CoOperativeCancellation" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/06/demos/6_2_CoOperativeCancellation" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/06/demos/6_3_CancellationAndExceptions" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/06/demos/6_3_CancellationAndExceptions" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/06/demos/6_4_CancellationAndExceptions" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/06/demos/6_4_CancellationAndExceptions" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/06/demos/6_5_CancellingDeferred" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/06/demos/6_5_CancellingDeferred" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/06/demos/6_6_ExceptionsCancellingJobs" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/06/demos/6_6_ExceptionsCancellingJobs" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/06/demos/6_7_UsingSupervisorJob" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/06/demos/6_7_UsingSupervisorJob" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/06/demos/6_8_CoroutineExceptionHandler" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/06/demos/6_8_CoroutineExceptionHandler" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/06/demos/6_9_AsyncExceptions" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/06/demos/6_9_AsyncExceptions" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/07/demos/7_00_UI" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/07/demos/7_00_UI" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/07/demos/7_01_UIWithSleep" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/07/demos/7_01_UIWithSleep" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/07/demos/7_02_UIWithDelay" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/07/demos/7_02_UIWithDelay" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/07/demos/7_03_UIWithCancel" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/07/demos/7_03_UIWithCancel" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/07/demos/7_04_ComposeDesktop" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/07/demos/7_04_ComposeDesktop" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/07/demos/7_05_ComposeDesktopWithSleep" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/07/demos/7_05_ComposeDesktopWithSleep" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/07/demos/7_06_ComposeDesktopWithDelay" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/07/demos/7_06_ComposeDesktopWithDelay" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/07/demos/7_07_ComposeDesktopWithCancel" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/07/demos/7_07_ComposeDesktopWithCancel" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/07/demos/7_08_Echo" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/07/demos/7_08_Echo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/08/demos/8_1_LaunchDemo" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/08/demos/8_1_LaunchDemo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/3_1_LaunchDemo" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/3_1_LaunchDemo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/3_2_RunBlocking" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/3_2_RunBlocking" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/3_3_Suspend" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/3_3_Suspend" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/3_4_Testing" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/3_4_Testing" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
